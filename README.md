@@ -106,7 +106,7 @@ The connection between entities
 - Networks are organized as a series of layers, each one built on the one below it
 - Each layer offers services to the upper layers, shielding them from the details how the services are actually implemented
 - Layer *N* on one machine holds a conversation with layer *N* on another machine (called a peer). Data is sent indirectly between peers, by using the services of the lower layers
-	![Protocol Hierarchies](img/Protocol Hierarchies.png)
+![Protocol Hierarchies](img/Protocol Hierarchies.png)
 	
 ## The OSI Reference Model
 
